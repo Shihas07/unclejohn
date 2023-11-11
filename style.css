@@ -29,7 +29,7 @@ a:hover{
 }
  #a{
   width: 100%;
-  /* margin-bottom: -15px; */
+  margin-bottom: -15px;
   text-align: center;
 }
 .btn:hover{
@@ -39,6 +39,10 @@ a:hover{
   background-color: rgb(242,228,207);
   /* margin-top: 20px; */
   border: 0px;
+}
+#as{
+  width: 109%;
+  margin-left: -15px;
 }
 /* .png{
   width: 20px;
@@ -81,7 +85,16 @@ a:hover{
 #ab{
   background-color: white;
 }
-
+/* p.text{ */
+  /* word-wrap: break-word; */
+/* } */
+.card-body p{
+  text-align: justify;
+  font-weight: 400;
+}
+/* .btn{ */
+  /* width: max-content; */
+/* } */
 
 
 
@@ -94,6 +107,7 @@ a:hover{
   #carouselExampleInterval{
     margin-top: 100px;
   }
+  
   
 
   
